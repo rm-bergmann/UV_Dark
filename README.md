@@ -14,4 +14,5 @@ The syntax highlighting in this version is customized for the following language
 
 Next release will include Node JS syntax highlighting to match Javascript.
 
-
+## JSX Screenshot
+![Komodo IDE UV Dark Theme](https://1drv.ms/u/s!Atsicy6FllW691FvmVpCqW1mFRoL?raw=true "Komodo IDE UV Dark Theme")
