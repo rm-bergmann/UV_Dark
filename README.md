@@ -1,5 +1,5 @@
 # UV_Dark
-Custom dark theme for Komodo IDE / Edit
+Custom dark scheme for Komodo IDE / Edit
 
 Based on my love for bright colours on dark backgrounds.
 
@@ -15,4 +15,4 @@ The syntax highlighting in this version is customized for the following language
 Next release will include Node JS syntax highlighting to match Javascript.
 
 ## JSX Screenshot
-![Komodo IDE UV Dark Theme](https://1drv.ms/u/s!Atsicy6FllW691FvmVpCqW1mFRoL?raw=true "Komodo IDE UV Dark Theme")
+![Komodo IDE UV Dark Theme](komodo-screen-jsx.png?raw=true "Komodo IDE UV Dark Scheme")
