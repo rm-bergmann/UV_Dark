@@ -1,4 +1,4 @@
-Version = 15
+Version = 1.0.1
 
 Booleans = {'caretLineVisible': True, 'preferFixed': 1, 'useSelFore': False}
 
@@ -134,11 +134,17 @@ LanguageStyles = {'C#': {'UUIDs': {'fore': 16777215},
                 'stdout': {'fore': 11141014},
                 'strings': {'fore': 7536517},
                 'verbatim': {'fore': 16777215}},
- 'Less': {'classes': {'fore': 10092390},
-          'identifiers': {'fore': 16751103},
-          'ids': {'fore': 10079487},
+ 'Less': {'attribute name': {'fore': 8115821},
+          'bracebad': {'back': 0},
+          'classes': {'fore': 9895782},
+          'default': {'fore': 16376392},
+          'identifiers': {'fore': 16734719},
+          'ids': {'fore': 4520959},
+          'important': {'fore': 1279},
+          'mixins': {'fore': 16775956},
+          'operators': {'fore': 16777215},
           'strings': {'fore': 16777215},
-          'tags': {'fore': 6737151},
+          'tags': {'fore': 7730681},
           'variables': {'fore': 16777011}},
  'PHP': {'attribute name': {'fore': 7566334},
          'attribute value': {'fore': 6596863},
