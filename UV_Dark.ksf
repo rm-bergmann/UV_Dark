@@ -1,4 +1,4 @@
-Version = 1.0.1
+Version = 15
 
 Booleans = {'caretLineVisible': True, 'preferFixed': 1, 'useSelFore': False}
 
