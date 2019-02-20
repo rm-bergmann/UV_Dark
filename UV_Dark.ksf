@@ -1,4 +1,4 @@
-Version = 1.0.1
+Version = 3
 
 Booleans = {'caretLineVisible': True, 'preferFixed': 1, 'useSelFore': False}
 
@@ -144,7 +144,7 @@ LanguageStyles = {'C#': {'UUIDs': {'fore': 16777215},
           'mixins': {'fore': 16775956},
           'operators': {'fore': 16777215},
           'strings': {'fore': 16777215},
-          'tags': {'fore': 7730681},
+          'tags': {'fore': 50175},
           'variables': {'fore': 16777011}},
  'PHP': {'attribute name': {'fore': 7566334},
          'attribute value': {'fore': 6596863},
